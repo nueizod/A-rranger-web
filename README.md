@@ -1,3 +1,21 @@
+# Arranger 개발환경세팅 정보
+
+git clone http://jedje@issue.aedata.co.kr/yona/skang/A-rranger
+
+[Window OS]
+프로젝트 폴더로 이동하여 명령어 실행
+
+최초 실행시 터미널 build 필수
+> refine.bat build
+
+run 방법1) 터미널 실행
+> refine.bat
+
+run 방법2) 포트 변경하여 터미널 실행
+> refine.bat /p xxxx 
+
+run 방법3) 개발툴 run configuration 에서 maven 선택 후 exec:java로 설정하여 run
+
 # OpenRefine
 
 [![DOI](https://zenodo.org/badge/6220644.svg)](https://zenodo.org/badge/latestdoi/6220644)
