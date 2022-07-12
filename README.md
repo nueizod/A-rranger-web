@@ -8,6 +8,7 @@ git clone http://jedje@issue.aedata.co.kr/yona/skang/A-rranger
 최초 실행시 터미널 build 필수
 > refine.bat build
 
+run 방법 택1
 run 방법1) 터미널 실행
 > refine.bat
 
