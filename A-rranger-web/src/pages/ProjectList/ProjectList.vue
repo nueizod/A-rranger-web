@@ -49,7 +49,6 @@ import MsgDialog from '@/Custom/MsgDialog'
 
 export default {
   name: 'ProjectList',
-  // components: { MsgDialog },
   data() {
     return {
       projects: [],
