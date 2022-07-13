@@ -16,6 +16,7 @@ import ProjectList from "@/pages/ProjectList/ProjectList";
 
 Vue.use(Router);
 
+// [FCM004] 라우팅 기능 구현
 export default new Router({
   routes: [
     {

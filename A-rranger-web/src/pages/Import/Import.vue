@@ -63,7 +63,10 @@ export default {
   },
   methods: {
     uploadFile() {
-
+      // [FCM002] 오류처리 기능 구현 전역처리
+      // TEST : 테스트를 위한 강제 에러리턴
+      throw new Error("문제가 발생했습니다.");
+      //return err;
     },
     uploadDB() {
 

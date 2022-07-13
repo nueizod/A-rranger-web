@@ -1,5 +1,6 @@
 import axios from 'axios'
 
+// [FCM003] API 관리 기능 구현
 function getAllProjectTags() {
   return axios.get("/command/core/get-all-project-tags");
 }
